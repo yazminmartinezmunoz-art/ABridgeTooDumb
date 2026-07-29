@@ -1,0 +1,4 @@
+repository "ABridgeTooDumb/ABridgeTooDumb@4673658914440@cloud"
+  path "/"
+    br "/main"
+    co "/main"
